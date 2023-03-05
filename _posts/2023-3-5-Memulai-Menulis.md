@@ -3,9 +3,10 @@ layout: post
 title: Memulai Menulis
 ---
 
-Bingung juga mau nulis apa, tapi mulai saja dulu yakaaan :) Mulai dengan ke'random'an. Disclaimer dulu karena tulisan ini mungkin, bisa jadi unfaedah buat kamu. Jadi boleh dibaca terus atau berhenti di sini, it's your choice.
 
-Daripada isinya cuma 'Lorem Ipsum', mari isi dengan corat coret yang ngalor ngidul. Let's goo...
+![memulai menulis]({{ site.baseurl }}/images/write.jpg)
+
+Bingung juga mau nulis apa, tapi mulai saja dulu yakaaan :) Mulai dengan ke'random'an. Disclaimer dulu karena tulisan ini mungkin, bisa jadi unfaedah buat kamu. Jadi boleh dibaca terus atau berhenti di sini, it's your choice. Daripada isinya cuma 'Lorem Ipsum', mari isi dengan corat coret yang ngalor ngidul. Let's goo...
 
 ## 2013 Saat Pertama Kali Bekerja 
 
@@ -25,9 +26,6 @@ Merawat kebaikan dengan kolega kerja gampang-gampang syulit, karena jika membang
 
 Hari demi hari saya lewati dengan sukacita, senang sekali bisa banyak belajar dengan tim di kantor pertama ini. Semoga kakak kaka tingkatku ini sehat selalu, Aamiin. Menjadi seorang yang PRO dalam bekerja akan mengorbankan banyak hal, terutama diri sendiri. Hanya kita yang bisa mengukur dan mengendalikan diri kita. Ketika mampu beradaptasi, melewatinya, dan berkembang menuju versi terbaik, maka semua hal yang dulu kita impikan, sedikit demi sedikit akan terwujud. Contohnya melihat haru seorang Ibu/Ayah yang bangga mempunyai anak, yang bisa mencapai mimpinya. Bukankan itu pencapaian yang tidak akan bisa dibeli oleh mata uang manapun? Pekerjaan hanya alat. Karir adalah diri kita, keluarga kita, orang-orang yang sayang terhadap kita sepanjang hidup kita. Maka jaga mereka.
 
-Buah pikir ini saya dapatkan ketika saya menulis ini karena sudah bekerja di 7 perusahaan, bertemu dengan rupa-rupa sikap dan sifat orang. Lalu belajar dari mereka. 
+Buah pikir ini tentu sangat subjektif, saya dapatkan dari pengalaman bekerja di beberapa perusahaan, bertemu dengan rupa-rupa sikap dan sifat orang. Lalu belajar dari mereka. 
 
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 

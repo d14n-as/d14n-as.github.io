@@ -26,4 +26,3 @@ Merawat kebaikan dengan kolega kerja gampang-gampang syulit, karena jika membang
 
 Hari demi hari saya lewati dengan sukacita, senang sekali bisa banyak belajar dengan tim di kantor pertama ini. Semoga kakak kaka tingkatku ini sehat selalu, Aamiin. Menjadi seorang yang PRO dalam bekerja akan mengorbankan banyak hal, terutama diri sendiri. Hanya kita yang bisa mengukur dan mengendalikan diri kita. Ketika mampu beradaptasi, melewatinya, dan berkembang menuju versi terbaik, maka semua hal yang dulu kita impikan, sedikit demi sedikit akan terwujud. Contohnya melihat haru seorang Ibu/Ayah yang bangga mempunyai anak, yang bisa mencapai mimpinya. Bukankan itu pencapaian yang tidak akan bisa dibeli oleh mata uang manapun? Pekerjaan hanya alat. Karir adalah diri kita, keluarga kita, orang-orang yang sayang terhadap kita sepanjang hidup kita. Maka jaga mereka.
 
-

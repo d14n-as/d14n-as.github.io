@@ -4,7 +4,7 @@ title: Perbedaan Position Absolute dan Relatif (CSS Layout)
 ---
 
 
-![memulai menulis]({{ site.baseurl }}/images/write.jpg)
+![memulai menulis]({{ site.baseurl }}/images/css.jpg)
 
 'Position' merupakan properti dari CSS, dipakai menentukan posisi elemen html. Ada 5 value dari properti Position, yaitu:
 

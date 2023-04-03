@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Memposisikan Elemen (CSS Layout)
+title: Properti Position - CSS Layout
 ---
 
 
-![memulai menulis]({{ site.baseurl }}/images/css.jpg)
+![CSS Layout]({{ site.baseurl }}/images/css.jpg)
 
 ## Apa Perbedaan Posisition Absolute dan Relatif?
 

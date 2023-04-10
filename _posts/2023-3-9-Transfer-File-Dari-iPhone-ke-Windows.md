@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Transfer File Dari iPhone ke PC Windows Lebih Mudah Dengan Intel Unison
 ---
 
@@ -59,6 +60,6 @@ Berikut caranya:
 
 ![Cara Install Intel Unison]({{ site.baseurl }}/images/how-to-7.jpg)
 
-Note: ponsel dengan PC diharapkan menggunakan koneksi internet yang sama
+Note: ponsel dan PC diharapkan menggunakan koneksi internet yang sama
 
 CMIIW.

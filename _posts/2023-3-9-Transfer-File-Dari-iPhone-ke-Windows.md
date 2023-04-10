@@ -59,4 +59,6 @@ Berikut caranya:
 
 ![Cara Install Intel Unison]({{ site.baseurl }}/images/how-to-7.jpg)
 
+Note: ponsel dengan PC diharapkan menggunakan koneksi internet yang sama
+
 CMIIW.

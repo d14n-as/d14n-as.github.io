@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Memulai Menulis
 ---
 
@@ -47,3 +48,26 @@ Dari semua teman kerja, hanya saya dan sepupu, waktu itu yang belum menempuh per
 Hidup itu tentang perjalanan. Perjalanan menemukan Ridho-Nya. Mungkin bisa melewati jalan banyak tikungan tajam, melewati jalan lurus-lurus saja, melewati jalan berkerikil, melewati jalan mulus, melewati jalan sempit bahkan lebar. Nikmati saja prosesnya meski proses itu tidak nikmat. Perjalanan di kantor pertama ini saya cukupkan di tahun 2015. Perjalanan mengenal sosok Bang Madi yang selalu ngajak Solat ke Masjid. Perjalanan mengenal sosok Ka Rudi yang menularkan banyak keceriaan, sampai saat menulis ini, sembari membayangkan ketawanya beliau. Mengenal Mas Anggi, sosok yang serius tapi tetap punya rasa humor. Bang FreeFun (baca: Preevan) yang suka sharing banyak hal, meski umur kita terlampau jauh, tapi beliau tetap menyampaikannya dengan ringan. Dan semua tim yang tidak bisa saya sebutkan satu persatu, semoga sehat selaluuu :)
 
 
+
+{% if page.comments %}
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://d14n-as-1.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <script id="dsq-count-scr" src="//d14n-as-1.disqus.com/count.js" async></script>
+{% endif %}

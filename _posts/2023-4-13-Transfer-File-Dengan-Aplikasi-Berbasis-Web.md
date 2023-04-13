@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: Transfer File Engga Perlu Install Aplikasi, Hanya Dengan Ini!
+categories: ShareDrop TransferFile WebApp
 ---
 
 

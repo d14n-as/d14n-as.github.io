@@ -9,7 +9,7 @@ title: Transfer File Dari iPhone ke PC Windows Lebih Mudah Dengan Intel Unison
 
 ## Fitur-fitur Intel Unison
 
-Dewasa ini, perkembangan sistem informasi teknologi semakin pesat. Sebelum tahu ada aplikasi bernama Intel Unison, saya seringkali kebingungan mencari aplikasi serupa untuk mengirim file atau data dari ponsel ke perangkat komputer lainnya (iOS atau Android). 
+Sebelum tahu ada aplikasi bernama Intel Unison, saya seringkali kebingungan mencari aplikasi serupa untuk mengirim file atau data dari ponsel ke perangkat komputer lainnya (iOS atau Android). 
 
 Disadur dari https://www.intel.co.id/content/www/id/id/products/docs/unison/overview.html Berikut beberapa fitur Intel Unison:
 - Memudahkan transfer file/data dari perangkat iOS ke windows maupun sebaliknya

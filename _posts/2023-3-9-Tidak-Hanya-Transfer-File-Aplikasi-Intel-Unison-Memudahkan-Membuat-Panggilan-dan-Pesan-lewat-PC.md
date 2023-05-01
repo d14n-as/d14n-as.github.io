@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Transfer File Dari iPhone ke PC Windows Lebih Mudah Dengan Intel Unison
+title: Tidak Hanya Transfer File, Aplikasi Intel Unison Memudahkan Membuat Panggilan dan Pesan lewat PC yang Terhubung Ke Ponsel
 ---
 
 

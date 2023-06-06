@@ -31,7 +31,11 @@ Selain mudah, aplikasi tersebut juga murah, atau tidak memerlukan biaya untuk me
 
 ![Cara Menghilangkan Background Gambar]({{ site.baseurl }}/images/remove-bg-4.jpg)
 
-- Kemudian hasilnya, bisa diklik tab original dan tab removed background
+- Kemudian hasilnya, bisa diklik tab original untuk foto original sebelum dihilangkan latar belakangnya
+
+![Cara Menghilangkan Background Gambar]({{ site.baseurl }}/images/remove-bg-7.jpg)
+
+- Dan tab removed background untuk foto yang sudah dihilangkan latar belakangnya
 
 ![Cara Menghilangkan Background Gambar]({{ site.baseurl }}/images/remove-bg-5.jpg)
 

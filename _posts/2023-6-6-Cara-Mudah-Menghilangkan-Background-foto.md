@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Cara Menghilangkan Background/Latar Belakang Foto Dengan Mudah
+title: Cara Mudah Menghilangkan Background/Latar Belakang Foto 
 categories: Remove Background, Remove.bg, image
 ---
 

@@ -14,7 +14,7 @@ File yang akan diunggah ke website biasanya disimpan menggunakan fitur save for 
 
 Save for web dapat dilakukan dengan mengklik File > Export > Save For Web. Atau dengan shortcut menekan Alt+Shift+Ctrl+S bagi pengguna windows.
 
-![[Some Name of The File Being Saved Contain Non Latin Character...]({{ site.baseurl }}/images/warning-2.jpg)
+![Some Name of The File Being Saved Contain Non Latin Character...]({{ site.baseurl }}/images/warning-2.jpg)
 
 Namun apa jadinya kalau ada warning seperti "Some Name of The File Being Saved Contain Non Latin Character..." seperti di bawah ini?
 

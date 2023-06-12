@@ -16,7 +16,7 @@ Save for web dapat dilakukan dengan mengklik File > Export > Save For Web. Atau 
 
 ![Some Name of The File Being Saved Contain Non Latin Character...]({{ site.baseurl }}/images/warning-2.jpg)
 
-Namun apa jadinya kalau ada warning seperti "Some Name of The File Being Saved Contain Non Latin Character..." seperti di bawah ini?
+Namun apa jadinya kalau ada warning "Some Name of The File Being Saved Contain Non Latin Character..." seperti di bawah ini?
 
 ![Some Name of The File Being Saved Contain Non Latin Character...]({{ site.baseurl }}/images/warning-1.jpg)
 

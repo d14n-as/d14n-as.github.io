@@ -20,7 +20,7 @@ Namun apa jadinya kalau ada warning "Some Name of The File Being Saved Contain N
 
 ![Some Name of The File Being Saved Contain Non Latin Character...]({{ site.baseurl }}/images/warning-1.jpg)
 
-Cara mengatasinya adalah dengan memilih direktori folder yang lain (Jangan disimpan di folder yang sama), lalu klik save.
+Cara mengatasinya adalah dengan menyimpan file di path folder yang lain (Jangan disimpan di path folder yang sama)
 
 CMIIW.
 

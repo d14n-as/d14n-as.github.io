@@ -14,26 +14,25 @@ Embed Video adalah proses menyematkan video dari platform lain ke platform kita 
 
 ## Cara Mendapatkan Link Embed Video dari Google Drive
 
-1. Buat folder terlebih dahulu di direktori google drive Anda
-2. Unggah video yang akan di embed ke folder tersebut
+- Buat folder terlebih dahulu di direktori google drive Anda
+- Unggah video yang akan di embed ke folder tersebut
 
 ![Bagaimana Caranya Embed Video dari Google Drive?]({{ site.baseurl }}/images/embed-1.jpg)
 
-3. Silakan double klik pada video tersebut, sehingga tampil pop video seperti tampilan di bawah
+- Silakan double klik pada video tersebut, sehingga tampil pop video seperti tampilan di bawah
 
 ![Bagaimana Caranya Embed Video dari Google Drive?]({{ site.baseurl }}/images/embed-2.jpg)
 
-4. Lalu klik "Buka di jendela baru" / "Open in new window", maka tampilan selanjutnya seperti berikut
+- Lalu klik "Buka di jendela baru" / "Open in new window", maka tampilan selanjutnya seperti berikut
 
 ![Bagaimana Caranya Embed Video dari Google Drive?]({{ site.baseurl }}/images/embed-3.jpg)
 
-5. Kemudian klik "Sematkan Item"
-6. Maka Anda akan mendapatkan link embed seperti di bawah, selanjutnya silakan copas ke website/platform Anda
+- Kemudian klik "Sematkan Item"
+- Maka Anda akan mendapatkan link embed seperti di bawah, selanjutnya silakan copas ke website/platform Anda
 
 ![Bagaimana Caranya Embed Video dari Google Drive?]({{ site.baseurl }}/images/embed-4.jpg)
 
-7. Klik "Oke" untuk menutup pop up
-
+- Klik "Oke" untuk menutup pop up
 
 
 CMIIW.

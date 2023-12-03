@@ -54,6 +54,7 @@ Keuntungan penggunaan SVG dibanding format gambar yang lain:
 - Kemudian klik "Download PNG" di pojok kanan atas
 
 ![Mengkonversi Kode SVG ke PNG]({{ site.baseurl }}/images/svg4.jpg)
+![Mengkonversi Kode SVG ke PNG]({{ site.baseurl }}/images/svg4.jpg)
 
 CMIIW.
 

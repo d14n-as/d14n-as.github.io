@@ -1,51 +1,94 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136111828-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    gtag('config', 'UA-136111828-1', { 'optimize_id': 'GTM-NBQM63R' });
+  </script>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+  <meta charset="UTF-8">
+  <meta name="keywords"
+    content="dian, abdul, syahid, dian abdul syahid, frontend developer, frontend, developer, ui/ux engineer, ui, ux, user interface, user experience, web developer majalengka, web developer jawa barat, web developer indonesia, indonesian, coding, ngoding, code">
+  <meta name="author" content="Dian Abdul Syahid">
+  <meta name="description" content="Masih lorem ipsum dolor sit amet...>
+  <meta name=" viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Welcome Aboard</title>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="https://d14n-as.github.io/aboutme/">About</a>
-          </nav>
-        </header>
-      </div>
+
+  <!-- fb meta -->
+  <meta property="fb:admins" content="" />
+  <meta property="fb:app_id" content="" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://d14n-as.github.io/" />
+  <meta property="og:title" content="DIAN ABDUL SYAHID" />
+  <meta property="og:image" content="images/thumbnail.jpg" />
+  <meta property="og:description" content="Masih lorem ipsum dolor sit amet..." />
+
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="https://d14n-as.github.io/aboutme/ />
+  <meta name=" twitter:creator" content="@forabduuul">
+  <meta name="twitter:title" content="DIAN ABDUL SYAHID" />
+  <meta name="twitter:description" content="Masih lorem ipsum dolor sit amet..." />
+  <meta name="twitter:image" content="images/thumbnail.jpg" />
+
+</head>
+
+<body>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+
+        <nav>
+          <a href="{{ site.baseurl }}/">Blog</a>
+          <a href="https://d14n-as.github.io/aboutme/">About</a>
+        </nav>
+      </header>
     </div>
+  </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        {% include svg-icons.html %}
+      </footer>
     </div>
+  </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+  {% include analytics.html %}
+</body>
 
-    {% include analytics.html %}
-  </body>
 </html>

@@ -1,37 +1,35 @@
 ---
 layout: post
 comments: true
-title: Photopea Bisa Menjadi Solusi Alternatif Editor Gambar Secara Daring
+title: Affinity Designer, Aplikasi Vector, Pixel, Layout, by Canva
 categories: Illustration, Web Design, Design Graphic, Design, Creative Design, Print Design
 ---
 
-![Photopea Bisa Menjadi Solusi Alternatif Editor Gambar Secara Daring]({{ site.baseurl }}/images/Photopea.png)
+![Affinity Designer, Aplikasi Vector, Pixel, Layout, by Canva]({{ site.baseurl }}/images/affinity1.png)
 
 ## Intro
 
-Secara umum, aplikasi editing gambar yang banyak digunakan dan diketahui adalah Adobe Photoshop, Adobe Illustrator, Canva, Figma dan lain sebagainya. Aplikasi-aplikasi berbasis web dan native tersebut sudah menjadi "Penguasa" di ranah software editing dan kreatif selama bertahun-tahun dan bahkan baru beberapa tahun.
+19 Januari 2026, setelah melewati berbagai hal di tahun 2025, saya secara sadar untuk kembali lagi menulis di ruang ini. Pembahasannya mengenai Affinity Designer. Sebuah aplikasi design yang cukup lengkap dari Canva, tanpa biaya sepeserpun (dibaca: gratis). Hingga saat tulisan ini dibuat, aplikasi Affinity Designer masih gratis. 
 
-Saya sendiri terjun ke industri profesional di zaman Adobe & Coreldraw sudah banyak dipakai user. Setelah belajar keduanya, saya lebih tertarik mendalami Adobe Illustrator. Sehingga dulu memulai belajar aplikasi editing gambar dengan Adobe Photoshop dan Adobe Illustrator secara otodidak maupun dibimbing. Sudah 1 dekade lebih saya menggunakan produk Adobe, ketergantungan dengan fitur-fitur canggihnya, hingga saat artikel ini tayang sudah banyak software editing yang ditanami Artificial Intelligence (dibaca: AI), tetap memilih Adobe sebagai solusi untuk menyelesaikan pekerjaan-pekerjaan saya.
+Kilas balik sedikit, dari Agustus 2025 hingga sekarang, saya memutuskan untuk switch career. Belajar dan bekerja hal baru, hal yang saya belum pernah kerjakan sebelumnya. Artinya dalam bidang yang baru ini tidak memerlukan aplikasi design sama sekali.
 
-Hingga pada suatu pagi hari, bertemu dengan rekan kerja, ngobrol seputar perkembangan teknologi, mencari solusi untuk mengakomodasi kebutuhan tim beliau hadapi. Keluarlah nama Photopea. Saya penasaran. dan googling.
+Di waktu luang, saya kebingungan ketika ingin membuat desain kembali. Suatu pagi hari di tahun 2025, saat buka LinkedIn, ada beberapa akun yang membahas tentang Affinity Designer melewati halaman beranda. Setelah baca-baca, ternyata aplikasi tersebut secara tampilan dan shortcut keyboard mirip dengan Adobe. Wah menarik!
 
-## Apa itu Photopea?
+## Apa itu Affinity Designer?
 
-Photopea adalah editor gambar canggih yang dapat bekerja dengan grafik raster dan vektor. Anda dapat menggunakannya untuk tugas-tugas sederhana, seperti mengubah ukuran gambar, serta tugas-tugas rumit, seperti mendesain halaman web, membuat ilustrasi, memproses foto, dan banyak lagi.
+![Affinity Designer, Aplikasi Vector, Pixel, Layout, by Canva]({{ site.baseurl }}/images/affinity3.png)
 
-Editor Photopea bekerja di peramban web. Anda dapat memulainya dengan mengunjungi www.Photopea.com . Photopea dapat berjalan di perangkat apa pun (desktop, laptop, tablet, ponsel, atau komputer lain), tetapi untuk kenyamanan terbaik, kami sarankan Anda memiliki layar besar, perangkat penunjuk yang presisi (mouse atau stylus), dan keyboard.
+"Perangkat lunak desain grafis canggih yang menyesuaikan dengan Anda — bukan sebaliknya. Dan ini gratis (serius)." 
 
-Photopea berjalan sepenuhnya di perangkat Anda, seperti halnya Sketch atau Photoshop. Aplikasi ini tidak mengunggah berkas Anda ke internet. Anda dapat membuka Photopea.com, memutus sambungan internet, dan tetap menggunakannya secara offline. Tidak ada berkas yang akan keluar dari komputer Anda.
-
-(Source: https://www.photopea.com/learn/)
+(Source: https://www.affinity.studio/id_id/graphic-design-software)
 
 ## Reaksi
 
-Saya terkejut melihat tampilan dari Photopea, mirip sekali dengan Adobe Photoshop, sekaligus bisa memuat berbagai macam file dari Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Sketch App, Pdf dan lainnya.
+Bagi sebagian orang, klaim tersebut mungkin terdengar berlebihan. Saya buktikan sendiri dengan belajar dan membuat projek sederhana versi saya sendiri. Dan ternyata hasilnya istimewa (Terbaca agak berlebihan ya? :D ) Postingan saya sebelumnya membahas perangkat lunak desain grafis yang tampilan dan shortcutnya mirip Adobe, namun experiencesnya masih belum terasa seperti Adobe. Untuk kali ini, si Affinity benar-benar mirip seperti Adobe.
 
-Photopea juga multiplatform, dapat digunakan di browser Windows, macOS, dan Linux. Photopea menawarkan opsi gratis dan berbayar. Versi gratis photopea memuat iklan. Jika pengguna merasa terganggu dengan iklannya, pengguna bisa memilih opsi berbayar, sekaligus bisa membantu sang developer asal Republik Ceko yang mengaku menghabiskan waktu 7.000 jam untuk membuat Photopea.
+Affinity juga bisa membuka file AI, PSD, PDF, SVG, JPEG, TIFF, RAW, InDesign lalu selanjutnya bisa diexport menjadi file PNG atau file AF.
 
-![Photopea Bisa Menjadi Solusi Alternatif Editor Gambar Secara Daring]({{ site.baseurl }}/images/subscription.png)
+![Affinity Designer, Aplikasi Vector, Pixel, Layout, by Canva]({{ site.baseurl }}/images/affinity2.png)
 
 CMIIW.
 
